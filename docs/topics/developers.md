@@ -24,7 +24,7 @@ This document covers development of `brigade-controller`, `brigade-server`, and
 - make
 - Node.js and NPM
 
-## Clone the Repository For GOPATH
+## Clone the Repository In GOPATH
 
 Follow these steps when cloning the brigade repository to use an existing `GOPATH` for your system:
 
