@@ -70,6 +70,8 @@ But it's easy to load and run brigade scripts with the `brig` client.
 
 ### Building Brig
 
+Tip: you may need to [review the Developer Guide](/docs/topics/developers.md) for setting up the build prerequisites and GOPATH properly.
+
 ```
 $ make bootstrap build-client
 $ bin/brig --help

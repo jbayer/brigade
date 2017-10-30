@@ -26,7 +26,7 @@ This document covers development of `brigade-controller`, `brigade-server`, and
 
 ## Clone the Repository For GOPATH
 
-Follow these steps when cloning the brigade repository to use an existing GOPATH for your system:
+Follow these steps when cloning the brigade repository to use an existing `GOPATH` for your system:
 
 - `$ mkdir -p $(go env GOPATH)/src/github.com/Azure # GOPATH is set to $HOME/go by default`
 - `$ git clone https://github.com/Azure/brigade $(go env GOPATH)/src/github.com/Azure/brigade`
